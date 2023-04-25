@@ -1,5 +1,5 @@
 # Hi there, I'm Yasmina 👋
-I am a Full-stack Web Developer based in Vancouver, currently in my final term at the British Columbia Institute of Technology.<br> 
+I'm a Full-stack Web Developer located in Vancouver and a recent graduate of the British Columbia Institute of Technology.<br>
 Throughout my program, I have gained hands-on experience in developing web applications working in teams and using modern technologies.<br>
 I am passionate about working on innovative and exciting projects which are user-centred and easy to use and staying up-to-date with the latest trends in web development.
 <br>
